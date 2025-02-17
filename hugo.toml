@@ -26,30 +26,9 @@ theme = "adritian-free-hugo-theme"
 [menu]
 
   [[menu.header]]
-  name = "About"
-  URL = "#about"
-  weight = 2
-
-  [[menu.header]]
-  name = "Portfolio"
-  URL = "#portfolio"
-  weight = 3
-
-  [[menu.header]]
   name = "Contact"
   URL = "#contact"
   weight = 4
-
-
-  [[menu.footer]]
-  name = "About"
-  URL = "#about"
-  weight = 2
-
-  [[menu.footer]]
-  name = "Portfolio"
-  URL = "#portfolio"
-  weight = 3
 
   [[menu.footer]]
   name = "Contact"
@@ -65,11 +44,10 @@ theme = "adritian-free-hugo-theme"
   homepageExperienceCount = 6
   
   [params.logo]
-    text1 = "Cool"
-    text2 = "Name"
+    text1 = "Noah"
+    text2 = "Ueffing"
 
   [params.footer]
-      copyright = "© Adritian. Free Hugo theme by Adrián Moreno Peña."
       [params.footer.radity_logo]
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"
