@@ -1,6 +1,6 @@
-baseURL = "https://www.adrianmoreno.info"
+baseURL = "https://NoahUeffing.gitlab.io/personal-site/"
 languageCode = "en-us"
-theme = "adritian-free-hugo-theme"
+title = "personal-site"
 
 # Plugins
 [params.plugins]

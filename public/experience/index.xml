@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Experiences on </title>
-    <link>http://localhost:1313/experience/</link>
-    <description>Recent content in Experiences on </description>
+    <title>Experiences on personal-site</title>
+    <link>http://localhost:1313/personal-site/experience/</link>
+    <description>Recent content in Experiences on personal-site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/personal-site/experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Back-end Developer</title>
-      <link>http://localhost:1313/experience/lvl/</link>
+      <link>http://localhost:1313/personal-site/experience/lvl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/lvl/</guid>
+      <guid>http://localhost:1313/personal-site/experience/lvl/</guid>
       <description>Back-end Developer - LVL Wellbeing ▪ Assisted in the establishment and implementation of LVL’s backend (Go, Echo, and PostgreSQL) from initial scaffolding to product release and beyond ▪ Participated in the development and maintenance of backend tests using Go’s testing package ▪ Completed data migrations between new and legacy LVL platforms using Node.js ▪ Created image compression and video transcoding pipelines using AWS, Python, and Node.js ▪ Integrated various external services such as AWS, OneSignal, and Mailchimp with backend infrastructure ▪ Collaborated with the product team on feature requirements, technical feasibility, and implementation ▪ Provided mentorship and training to new full-stack hires </description>
     </item>
     <item>
       <title>Data Management Analyst Co-op</title>
-      <link>http://localhost:1313/experience/rbc/</link>
+      <link>http://localhost:1313/personal-site/experience/rbc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/rbc/</guid>
+      <guid>http://localhost:1313/personal-site/experience/rbc/</guid>
       <description>Data Management Analyst Co-op - RBC ▪ Contributed to onboarding AML access management to the Data Operations Team ▪ Updated and debugged Python programs used by the Data Operations and Data Lineage Teams ▪ Led daily scrum and participated in sprint planning, sprint retrospective, and sprint review, meetings </description>
     </item>
     <item>
       <title>Junior Programmer Analyst Co-op</title>
-      <link>http://localhost:1313/experience/psc/</link>
+      <link>http://localhost:1313/personal-site/experience/psc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/psc/</guid>
+      <guid>http://localhost:1313/personal-site/experience/psc/</guid>
       <description>Junior Programmer Analyst Co-op - PSC ▪ Developed and maintained automated testing scripts using Python, Selenium, Groovy, and Katalon Studio ▪ Participated in Zoom and Microsoft Teams meetings with management, developers, QA, and students ▪ Created documentation for developing PSC software and automated testing scripts ▪ Researched CI/CD solutions for group Co-op student project ▪ Learned to use tools, systems, and technologies such as Docker, GitLab, PostgreSQL, and Django ▪ Developed and delivered a presentation on a Windows 10 upgrade to Halifax PSC employees </description>
     </item>
   </channel>
