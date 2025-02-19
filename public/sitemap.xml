@@ -4,7 +4,15 @@
   <url>
     <loc>http://localhost:1313/</loc>
   </url><url>
+    <loc>http://localhost:1313/experience/lvl/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/experience/rbc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/experience/</loc>
+  </url><url>
+    <loc>http://localhost:1313/experience/psc/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

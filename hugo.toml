@@ -26,8 +26,18 @@ theme = "adritian-free-hugo-theme"
 [menu]
 
   [[menu.header]]
+  name = "Experience"
+  URL = "#experience"
+  weight = 4
+
+  [[menu.header]]
   name = "Contact"
   URL = "#contact"
+  weight = 4
+
+  [[menu.footer]]
+  name = "Experience"
+  URL = "#experience"
   weight = 4
 
   [[menu.footer]]
